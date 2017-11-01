@@ -1,0 +1,2 @@
+# Amicable-number
+Amicable number
